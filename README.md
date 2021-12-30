@@ -1,5 +1,18 @@
 # Ansible
 
+- [1. Introduction](#1-introduction)
+  * [(1) What is Ansible?](#-1--what-is-ansible-)
+  * [(2) Ansible Galaxy](#-2--ansible-galaxy)
+- [2. Basic Concepts](#2-basic-concepts)
+  * [(1) Inventory](#-1--inventory)
+  * [(2) Playbook](#-2--playbook)
+- [3. Installing OcNos](#3-installing-ocnos)
+  * [(1) Prerequisites](#-1--prerequisites)
+  * [(2) Installing Ansible on Ubuntu](#-2--installing-ansible-on-ubuntu)
+  * [(3) Installing OcNOS from Ansible galaxy](#-3--installing-ocnos-from-ansible-galaxy)
+- [4. Automation on Network Configuration](#4-automation-on-network-configuration)
+  * [(1) LDP Configuration](#-1--ldp-configuration)
+
 # 1. Introduction
 
 ## (1) What is Ansible?
